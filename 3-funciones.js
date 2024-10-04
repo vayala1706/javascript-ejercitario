@@ -27,7 +27,7 @@
     // Tu código aquí
 
 // 3. Function Expression
-// 3.1 Crea una **function expression** que multiplique dos números y asígnala a la variable `multiplicar`.
+// 3.1 Crea una **function expression** que multiplique dos números y asígnala a la variable `multiplicarDOS`.
     // Tu código aquí
 
 // 3.2 Escribe una **function expression** llamada `saludar` que acepte un parámetro `nombre` y devuelva "Hola, [nombre]".
@@ -82,6 +82,7 @@ module.exports = {
     calcularPotencia,
     restar,
     dividir,
+    multiplicarDOS,
     saludar,
     esPar,
     calcularArea,
